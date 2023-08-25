@@ -24,7 +24,7 @@ import definePlugin, { OptionType } from "@utils/types";
 
 import style from "./index.css?managed";
 
-const BASE_URL = "https://raw.githubusercontent.com/AutumnVN/usrbg/main/usrbg.json";
+const BASE_URL = "https://github.com/AkiraList/usrbg-vem/blob/main/usrbg.json";
 
 let data = {} as Record<string, string>;
 
